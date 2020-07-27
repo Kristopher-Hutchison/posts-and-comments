@@ -5,7 +5,10 @@
       "title": "hello",
       "comments": [
         { "body": "Post 1, hello sucks" },
-        { "body": "Oh, yeah well you suck" }
+        {
+          "body": "Oh, yeah well you suck",
+          "comments": [{ "body": "No I don't, you do" }]
+        }
       ]
     },
     {
