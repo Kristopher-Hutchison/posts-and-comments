@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello",
+      "comments": [
+        { "body": "Post 1, hello sucks" },
+        { "body": "Oh, yeah well you suck" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Goodbye",
+      "comments": [
+        { "body": "Goodbye is right" },
+        { "body": "Yeah, I'll never view your post again" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "I know",
+      "comments": [
+        {
+          "body": "No you don't, You don't know anything"
+        },
+        {
+          "body": "Why do we still allow comments?!"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "You're",
+      "comments": [
+        {
+          "body": "More like YOUR"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "here",
+      "comments": [
+        {
+          "body": "the lizzard people are controlling you"
+        },
+        {
+          "body": "nuhuh"
+        }
+      ]
+    }
+  ]
+}
